@@ -1,0 +1,6 @@
+{
+  "name": "drupal-package/mousewheel",
+  "description": "Allows to clone the  jquery/jquery-mousewheel  repository",
+  "type": "drupal-library",
+  "keywords": ["plugin", "drupal-library", "jquery.mousewheel", "mousewheel"]
+}
